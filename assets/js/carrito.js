@@ -5,45 +5,45 @@ document.addEventListener('DOMContentLoaded', () => {
     const baseDeDatos = [
         {
             id: 1,
-            nombre: 'Sombrero vueltiao con la bandera de Colombia, 23 vueltas',
-            precio: 250000,
-            imagen: 'assets/img/feature_prod_01.jpg',
-            categoria: 'sombreros'
+            nombre: 'Sandalia en PVC - colores surtidos',
+            precio: 25000,
+            imagen: 'assets/img/sandalia4.jpeg',
+            categoria: 'sandalias'
         },
         {
             id: 2,
-            nombre: 'Sombrero vueltiao-machiembriao',
-            precio: 150000,
-            imagen: 'assets/img/sombrero4.jpg',
-            categoria: 'sombreros'
+            nombre: 'Sandalia 100% cuero - cafe claro',
+            precio: 89990,
+            imagen: 'assets/img/sandalia3.jpeg',
+            categoria: 'sandalias'
         },
         {
             id: 3,
-            nombre: 'Sombrero vueltiao colombiano 15 vueltas tricolor',
-            precio: 250000,
-            imagen: 'assets/img/feature_prod_02.jpg',
-            categoria: 'sombreros'
+            nombre: 'Sandalia 100% cuero - cafe oscuro',
+            precio: 69990,
+            imagen: 'assets/img/sandalia1.jpeg',
+            categoria: 'sandalias'
         },
         {
             id: 4,
-            nombre: 'Mochila wayuu azul 6',
-            precio: 120000,
-            imagen: 'assets/img/shop_04.jpg',
-            categoria: 'mochilas'
+            nombre: 'Calzado clásico capellada en cuero - Nergo',
+            precio: 129990,
+            imagen: 'assets/img/clasico2.jpeg',
+            categoria: 'clasicos'
         },
         {
             id: 5,
-            nombre: 'Bolso en fique',
+            nombre: 'Calzado deportivo Dama - Azul/rosa',
             precio: 120000,
-            imagen: 'assets/img/shop_03.jpg',
-            categoria: 'bolsos'
+            imagen: 'assets/img/tenis2.jpeg',
+            categoria: 'deportivos'
         },
         {
             id: 6,
-            nombre: 'Hamaca',
+            nombre: 'Calzado deportivo Caballero - Negro/Blanco',
             precio: 120000,
-            imagen: 'assets/img/category_img_02.jpg',
-            categoria: 'hamacas'
+            imagen: 'assets/img/tenis4.jpeg',
+            categoria: 'deportivos'
         }
     ];
 
